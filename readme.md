@@ -1,4 +1,4 @@
-# Finbonacci
+# Fibonacci
 Non recursive approach
 
 
