@@ -1,8 +1,7 @@
 package main
 
 import "fmt"
-
-// 
+ 
 /*
 f(0)=0; f(1)=1; fn=f(n-1)-f(n-2)
 0 1 1 2 3 5 8 13 21 34
